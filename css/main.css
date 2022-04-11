@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    font-family: "Fredoka", sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 0px 200px;
+}
+
+main{
+    padding: 0px 200px;
+}
+
+.card{
+    width: 344px;
+    height: 100px;
+    background-color: rgb(6, 6, 31);
+    float: left;
+    border: 9px solid white;
+}
+
+img{
+    width: auto;
+    height: 82px;
+    float: left;
+    padding-right: 10px;
+}
+
+.testo{
+    float: left;
+    color: white;
+    padding: 10px;
+    line-height: 22px;
+    
+}
